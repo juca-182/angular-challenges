@@ -1,6 +1,7 @@
 {
   "singleQuote": true,
   "bracketSameLine": true,
+  "semi":true,
   "htmlWhitespaceSensitivity": "ignore",
   "plugins": ["prettier-plugin-organize-imports", "prettier-plugin-tailwindcss"]
 }

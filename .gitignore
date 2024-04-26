@@ -41,3 +41,7 @@ Thumbs.db
 
 TODO.md
 .nx/cache
+package-lock.json
+.prettierrc
+.vscode/settings.json
+.prettierrc
